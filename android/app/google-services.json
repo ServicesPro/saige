@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "431235465416",
+    "project_id": "saige-66be2",
+    "storage_bucket": "saige-66be2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431235465416:android:568ab0f6ea68b0b3b6e5fd",
+        "android_client_info": {
+          "package_name": "com.eservicespro.saige"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431235465416-g1e92dbur0fmeevr2legmd9o9v43q9ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eservicespro.saige",
+            "certificate_hash": "e6338079e803e8965bcacc024575e2863a432fe8"
+          }
+        },
+        {
+          "client_id": "431235465416-1cgdejhhdnhu9qr9htmuu8jn3ti56fcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX8xN17WT5GbetY4N2_HlqYW4Whu5-mHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431235465416-1cgdejhhdnhu9qr9htmuu8jn3ti56fcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
